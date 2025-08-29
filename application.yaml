@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/aritrabiswas2004/mooc-the-project
+    repoURL: https://github.com/aritrabiswas2004/the-project-configs
     path: overlays/staging
     targetRevision: HEAD
   destination:
