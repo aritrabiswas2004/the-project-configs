@@ -16,6 +16,8 @@ kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/st
 
 ### Deployment
 
+> Firstly, ensure the image names and tags in the `kustomization` files are updated by running `git pull`
+
 To deploy the project with ArgoCD, run
 
 ```shell
